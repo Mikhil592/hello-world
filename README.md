@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Updated with a line
 
 git pull origin (thingy)
+
+git push branch
